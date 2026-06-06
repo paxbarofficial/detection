@@ -1,5 +1,5 @@
 {
-  "totalpengguna": 62,
+  "totalpengguna": 63,
   "users": {
     "6283830646779": {
       "nama": "Unknown",
@@ -310,6 +310,11 @@
       "nama": "MUNZIR cka",
       "number": "62821xxx831950",
       "connected": "6/6/2026, 13.43.03 WITA"
+    },
+    "6285893020640": {
+      "nama": "No Name",
+      "number": "62858xxx020640",
+      "connected": "6/6/2026, 13.55.03 WITA"
     }
   }
 }
