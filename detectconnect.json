@@ -1,5 +1,5 @@
 {
-  "totalpengguna": 72,
+  "totalpengguna": 73,
   "users": {
     "6283830646779": {
       "nama": "Unknown",
@@ -360,6 +360,11 @@
       "nama": "shizu yoshi bot ai",
       "number": "62895xxx175579",
       "connected": "6/6/2026, 18.17.52 WITA"
+    },
+    "6285745458024": {
+      "nama": "安兹",
+      "number": "62857xxx458024",
+      "connected": "6/6/2026, 19.08.08 WITA"
     }
   }
 }
