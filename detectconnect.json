@@ -1,5 +1,5 @@
 {
-  "totalpengguna": 88,
+  "totalpengguna": 89,
   "users": {
     "6283830646779": {
       "nama": "Unknown",
@@ -440,6 +440,11 @@
       "nama": "DIMM SUKA BUG WA ORANG\nKALO LAGI GABUT",
       "number": "62851xxx347459",
       "connected": "6/6/2026, 22.18.57 WITA"
+    },
+    "6285781196997": {
+      "nama": "No Name",
+      "number": "62857xxx196997",
+      "connected": "6/6/2026, 23.03.10 WITA"
     }
   }
 }
