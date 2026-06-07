@@ -1,5 +1,5 @@
 {
-  "totalpengguna": 113,
+  "totalpengguna": 114,
   "users": {
     "6283830646779": {
       "nama": "Unknown",
@@ -565,6 +565,11 @@
       "nama": "Manzzy",
       "number": "79994xxx917207",
       "connected": "7/6/2026, 20.30.39 WITA"
+    },
+    "6289661411441": {
+      "nama": "N/Exofloods/again.web",
+      "number": "62896xxx411441",
+      "connected": "7/6/2026, 20.34.49 WITA"
     }
   }
 }
