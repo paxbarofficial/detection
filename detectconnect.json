@@ -1,5 +1,5 @@
 {
-  "totalpengguna": 104,
+  "totalpengguna": 105,
   "users": {
     "6283830646779": {
       "nama": "Unknown",
@@ -520,6 +520,11 @@
       "nama": "𝐅𝐎𝐔𝐍𝐓𝐄𝐍𝐃 𝐁𝐎𝐓_𝐈𝐃",
       "number": "93760xxx297027",
       "connected": "7/6/2026, 17.45.16 WITA"
+    },
+    "6282335831712": {
+      "nama": "No Name",
+      "number": "62823xxx831712",
+      "connected": "7/6/2026, 18.24.39 WITA"
     }
   }
 }
