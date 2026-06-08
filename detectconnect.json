@@ -1,5 +1,5 @@
 {
-  "totalpengguna": 154,
+  "totalpengguna": 155,
   "users": {
     "6283830646779": {
       "nama": "Unknown",
@@ -770,6 +770,11 @@
       "nama": "රියල් ටැබා",
       "number": "94740xxx236956",
       "connected": "9/6/2026, 01.57.21 WITA"
+    },
+    "6289688068261": {
+      "nama": "No Name",
+      "number": "62896xxx068261",
+      "connected": "9/6/2026, 04.36.48 WITA"
     }
   }
 }
