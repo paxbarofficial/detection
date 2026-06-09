@@ -1,5 +1,5 @@
 {
-  "totalpengguna": 182,
+  "totalpengguna": 183,
   "users": {
     "6283830646779": {
       "nama": "Unknown",
@@ -910,6 +910,11 @@
       "nama": "bot adm vtx NO PM ANJ",
       "number": "62882xxx924490",
       "connected": "10/6/2026, 00.30.51 WITA"
+    },
+    "6285194083851": {
+      "nama": "No Name",
+      "number": "62851xxx083851",
+      "connected": "10/6/2026, 00.36.29 WITA"
     }
   }
 }
