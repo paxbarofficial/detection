@@ -1,5 +1,5 @@
 {
-  "totalpengguna": 171,
+  "totalpengguna": 172,
   "users": {
     "6283830646779": {
       "nama": "Unknown",
@@ -855,6 +855,11 @@
       "nama": "Ramzi bug",
       "number": "62881xxx798664",
       "connected": "9/6/2026, 19.43.17 WITA"
+    },
+    "6283851536786": {
+      "nama": "No Name",
+      "number": "62838xxx536786",
+      "connected": "9/6/2026, 20.27.14 WITA"
     }
   }
 }
