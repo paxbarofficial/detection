@@ -1,5 +1,5 @@
 {
-  "totalpengguna": 181,
+  "totalpengguna": 182,
   "users": {
     "6283830646779": {
       "nama": "Unknown",
@@ -905,6 +905,11 @@
       "nama": "danz plenger",
       "number": "62856xxx424233",
       "connected": "10/6/2026, 00.05.03 WITA"
+    },
+    "6288247924490": {
+      "nama": "bot adm vtx NO PM ANJ",
+      "number": "62882xxx924490",
+      "connected": "10/6/2026, 00.30.51 WITA"
     }
   }
 }
