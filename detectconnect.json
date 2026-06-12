@@ -1,5 +1,5 @@
 {
-  "totalpengguna": 225,
+  "totalpengguna": 226,
   "users": {
     "6283830646779": {
       "nama": "Unknown",
@@ -1125,6 +1125,11 @@
       "nama": "No Name",
       "number": "62856xxx023132",
       "connected": "12/6/2026, 21.25.57 WITA"
+    },
+    "6285285735251": {
+      "nama": "No Name",
+      "number": "62852xxx735251",
+      "connected": "12/6/2026, 22.06.55 WITA"
     }
   }
 }
